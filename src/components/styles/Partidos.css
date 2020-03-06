@@ -1,0 +1,6 @@
+.partidos {
+    border: solid;
+    border-color: black;
+    overflow: auto;
+    height: 75vh;
+}
